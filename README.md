@@ -1,1 +1,1 @@
-A test repository for learning Git
+A test repository for learning Git (partéû 2)
