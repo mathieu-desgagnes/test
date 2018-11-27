@@ -1,15 +1,14 @@
 
-
 יחüp ך 
-simpleText.txt - some text edited from a recent article on BBC News website.
 Just make some edits by filling in the ** (just make up some names/numbers etc.)
  and correct some typos I put in) to practice git commit and git push.
 
 India launches 'monster' rocket
+simpleText.txt - some text edited from a recent article on BBC News website.
 5 June 2017
 
 India's space agency has successfully launched its heaviest rocket.
-The **-tonne rocket blasted off from a launching site off the Bay of **.
+
 As one one one website put it, "it's been a big day for **". The rocket will 
 blahblah the Indian Space Research Organisation's (Isro) reliance on ** vehicles 
 to launch heavy **.
